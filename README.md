@@ -7,8 +7,10 @@ All of the subtitle has been fine timed, tagged with the original author name an
 The original subtitles is taken from subscene website.
 
 Abbreviation:
-CR   ------------> CrunchyRoll
-JPBD ------------> Japanese Bluray Disk
-USBD ------------> United State Bluray Disk
 
+    CR   ------------> CrunchyRoll
+
+    JPBD ------------> Japanese Bluray Disk
+
+    USBD ------------> United State Bluray Disk
 
